@@ -199,6 +199,10 @@ margin: 0 auto;
         margin-bottom: 8px;
     }
 
+        .svg-link:hover,
+        .svg-link:focus {
+            background-color: #404bbf;}
+
     .benefits-item {
     width: calc((100% - 72px) / 4);
     }
@@ -327,6 +331,8 @@ margin-bottom: 72px;
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
 }
 
 .svg-img {
