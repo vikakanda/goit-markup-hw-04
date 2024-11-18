@@ -309,10 +309,6 @@ margin-bottom: 72px;
     color: #434455;
 }
 
-.svg-list-container {
-    padding: 32px 0 32px;
-}
-
 .svg-list {
     display: flex;
     align-items: center;
