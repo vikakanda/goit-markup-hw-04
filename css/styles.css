@@ -309,6 +309,34 @@ margin-bottom: 72px;
     color: #434455;
 }
 
+.svg-list-container {
+    padding: 32px 0 32px;
+}
+
+.svg-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 24px;}
+
+.svg-link {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    cursor: pointer;
+    border-radius: 50%;
+    padding: 12px;
+    border: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.svg-img {
+    width: 18px;
+    height: 18px;
+    fill: #f4f4fd;}
 
 .footer {
     background-color: #2e2f42;
