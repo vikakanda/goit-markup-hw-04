@@ -420,11 +420,16 @@ margin-bottom: 16px;
     fill: #f4f4fd;}
 
     .footer-container {
-        display: flex;
         align-items: baseline;
+        margin-right: 120px;
         }
 
     .container-all {
         display: flex;
         align-items: baseline;
+    }
+
+    .svg-footer-link:hover,
+    .svg-footer-link:focus {
+        background-color: #31d0aa;
     }
