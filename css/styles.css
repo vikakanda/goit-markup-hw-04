@@ -419,7 +419,12 @@ margin-bottom: 16px;
 .svg-footer-img {
     fill: #f4f4fd;}
 
-        .footer-container {
-                display: flex;
-                align-items: baseline;
+    .footer-container {
+        display: flex;
+        align-items: baseline;
         }
+
+    .container-all {
+        display: flex;
+        align-items: baseline;
+    }
